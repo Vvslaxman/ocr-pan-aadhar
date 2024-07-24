@@ -25,12 +25,12 @@ Conceptualized an advanced OCR system using Python and OpenCV to accurately extr
     pytesseract.pytesseract.tesseract_cmd = r'C:\Path\To\Tesseract\tesseract.exe'
     ```
 3. **Clone the repository:**
-
+    Create a new directory and name a python file as mentioned below 
    ```sh
    git clone https://github.com/yourusername/ocr-pan-aadhar.git
    cd ocr_system.py
    ```
-   Create a new directory and name a python file as mentioned above to 
+    
 
 ## Usage
 1. Place your Aadhaar or PAN card image in the specified path.
