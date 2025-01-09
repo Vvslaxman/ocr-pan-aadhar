@@ -45,19 +45,20 @@ The system differentiates between Aadhaar and PAN card images and extracts their
 
 For Aadhaar Card :
 
-Type of Card: Aadhaar
-Name: ""
-Date of Birth: ""
-Sex: ""
-Aadhaar Number: ""
-VID: ""
+- Type of Card: Aadhaar
+- Name: ""
+- Date of Birth: ""
+- Sex: ""
+- Aadhaar Number: ""
+- VID: ""
+ 
 For PAN Card :
 
-Type of Card: PAN
-Name: ""
-Father's Name: ""
-Date of Birth: ""
-PAN Number: ""
+- Type of Card: PAN
+- Name: ""
+- Father's Name: ""
+- Date of Birth: ""
+- PAN Number: ""
 
 ## Contributing
 
