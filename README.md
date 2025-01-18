@@ -5,7 +5,7 @@
 Conceptualized an advanced OCR system using Python and OpenCV to accurately extract text from images, focusing on Aadhaar and PAN cards. Implemented image preprocessing techniques and leveraged Tesseract for text recognition, achieving high precision in extracting relevant details such as names, dates of birth, and card numbers. This solution efficiently processes and analyzes images, enhancing data extraction and validation accuracy.
 ## Note:
 This notebook contains code involving algorithms and image processing techniques that can be included in necessary backend system and utilize as of requirement by integrating proper frontend with it !
-## Features
+## Features 
 - **Image Preprocessing**: Applied grayscale conversion, denoising, and adaptive thresholding for optimal text recognition.
 - **Card Type Identification**: Utilized color analysis to differentiate between Aadhaar and PAN cards.
 - **Text Extraction**: Employed Tesseract OCR to extract key information including names, dates of birth, card numbers, and other relevant details.
